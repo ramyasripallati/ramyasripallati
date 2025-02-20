@@ -179,3 +179,5 @@ I'm a MERN Stack Developer and AI Engineer passionate about building modern web 
 # Add new degree - 2025-02-05 07:26:37
 
 # Add new floated - 2025-02-19 06:16:47
+
+# Add new joined - 2025-02-20 21:59:40

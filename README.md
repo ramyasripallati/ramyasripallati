@@ -249,3 +249,5 @@ I'm a MERN Stack Developer and AI Engineer passionate about building modern web 
 # Add new accessibility - 2025-03-15 19:49:27
 
 # Improve profile perception - 2025-03-26 04:03:42
+
+# Add new certificate - 2025-03-12 01:26:55

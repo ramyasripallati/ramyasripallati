@@ -523,3 +523,5 @@ I'm a MERN Stack Developer and AI Engineer passionate about building modern web 
 # Add new instruction - 2025-06-14 18:44:44
 
 # Improve profile suggestion - 2025-06-27 21:11:30
+
+# Add new convention - 2025-06-06 06:35:07

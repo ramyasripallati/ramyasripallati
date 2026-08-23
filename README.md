@@ -148,120 +148,34 @@ Automating repetitive workflows by connecting APIs, AI models and applications.
 
 # 🧩 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-10+-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stars-⭐-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forks-🍴-22D3EE?style=for-the-badge"/>
-</p>
+### 🚀 MERN Applications
 
----
+- **E-Commerce Platform** - Full-featured online store with cart, payments, and admin dashboard  
+  *Tech: React, Node.js, Express, MongoDB*
 
-## 🚀 MERN Applications
+- **Authentication System** - Secure authentication with JWT, OAuth, and role-based access control  
+  *Tech: React, Node.js, JWT, Bcrypt*
 
-<div align="center">
+### 🤖 AI & LLM Projects
 
-### [🌟 E-Commerce Platform](#)
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-Full-featured online store with cart, payments & admin dashboard 🛒
+- **Chatbot with Memory** - AI chatbot with conversation memory and context awareness  
+  *Tech: Python, OpenAI, LangChain, Pinecone*
 
-</div>
+- **Document Analyzer** - Extract insights from documents using NLP and machine learning  
+  *Tech: Python, Hugging Face, Transformers, FastAPI*
 
-<div align="center">
+### 📚 RAG Applications
 
-### [🔐 Authentication System](#)
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bcrypt-FF6B6B?style=flat-square"/>
-</p>
-Secure auth with JWT, OAuth & role-based access control �
+- **Smart Search Engine** - Semantic search with vector embeddings and AI-powered responses  
+  *Tech: Pinecone, OpenAI, Streamlit, LangChain*
 
-</div>
+### ⚡ Automation Workflows
 
----
+- **Task Automator** - Automate repetitive tasks across applications and services  
+  *Tech: Python, Zapier, APIs, Slack*
 
-## 🤖 AI & LLM Projects
-
-<div align="center">
-
-### [🧠 Chatbot with Memory](#)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-</p>
-AI chatbot with conversation memory & context awareness �
-
-</div>
-
-<div align="center">
-
-### [📄 Document Analyzer](#)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-Extract insights from documents using NLP & ML 📊
-
-</div>
-
----
-
-## 📚 RAG Applications
-
-<div align="center">
-
-### [🔍 Smart Search Engine](#)
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square"/>
-</p>
-Semantic search with vector embeddings & AI responses �
-
-</div>
-
----
-
-## ⚡ Automation Workflows
-
-<div align="center">
-
-### [🔄 Task Automator](#)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-6DB33F?style=flat-square&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-</p>
-Automate repetitive tasks across apps & services ⚙️
-
-</div>
-
-<div align="center">
-
-### [� Email Processor](#)
-<p>
-  <img src="https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</p>
-Auto-process emails with AI categorization & responses �
-
-</div>
-
-</div>
+- **Email Processor** - Auto-process emails with AI categorization and responses  
+  *Tech: n8n, Node.js, Webhooks, Gmail*
 
 ---
 

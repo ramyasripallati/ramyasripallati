@@ -1,33 +1,15 @@
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes fadeInDown {
-  from { opacity: 0; transform: translateY(-20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
 <div align="center">
-  <h1 style="animation: fadeInDown 1s ease-out;">
-    <span style="background: linear-gradient(90deg, #7C3AED, #EC4899, #F59E0B); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
+  <h1>
+    <span style="background: linear-gradient(90deg, #7C3AED, #EC4899, #F59E0B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       RAMYA SRI PALLATI
     </span>
   </h1>
   
-  <p style="animation: fadeIn 1.5s ease-out;">
+  <p>
     <strong>MERN Stack Developer | React Developer | AI Engineer & Automation Enthusiast</strong>
   </p>
   
-  <p style="animation: fadeIn 2s ease-out;">
+  <p>
     Exploring LLMs, RAG & Intelligent Systems
   </p>
 </div>
@@ -36,20 +18,17 @@
 
 ## 👩‍💻 About Me
 
-<div style="animation: fadeIn 2.5s ease-out;">
 I'm a MERN Stack Developer and AI Engineer passionate about building modern web applications and exploring artificial intelligence. Currently focused on:
 
 - 🔭 Building MERN & AI-powered applications
 - 🌱 Exploring LLMs, RAG, AI workflows & automation
 - 💡 Creating smart, scalable, real-world products
 - ⚡ Turning ideas into working applications
-</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div style="animation: fadeIn 3s ease-out;">
 <a href="https://www.linkedin.com/in/ramya-sri-pallati-8b98832a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -57,13 +36,11 @@ I'm a MERN Stack Developer and AI Engineer passionate about building modern web 
 <a href="mailto:ramyapallati77@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</div>
 
 ---
 
 ## 💻 Tech Stack
 
-<div style="animation: fadeIn 3.5s ease-out;">
 ### ⚛️ Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -91,19 +68,16 @@ I'm a MERN Stack Developer and AI Engineer passionate about building modern web 
   <img src="https://img.shields.io/badge/RAG-22D3EE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-EC4899?style=flat-square"/>
 </p>
-</div>
 
 ---
 
 ## 🚀 What I Build
 
-<div style="animation: fadeIn 4s ease-out;">
 **🌐 Full Stack Apps** - React-based frontend applications with Node.js, Express and MongoDB
 
 **🤖 AI Applications** - Applications powered by LLMs, intelligent workflows and RAG-based systems
 
 **⚡ Automation** - Automating repetitive workflows by connecting APIs, AI models and applications
-</div>
 
 ---
 

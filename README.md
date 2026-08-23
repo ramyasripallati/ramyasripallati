@@ -150,30 +150,30 @@ Automating repetitive workflows by connecting APIs, AI models and applications.
 
 ### 🚀 MERN Applications
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **E-Commerce Platform** | Full-featured online store with cart, payments, and admin dashboard | React, Node.js, Express, MongoDB |
-| **Authentication System** | Secure authentication with JWT, OAuth, and role-based access control | React, Node.js, JWT, Bcrypt |
+| Description | Tech Stack |
+|-------------|------------|
+| Full-featured online store with cart, payments, and admin dashboard | React, Node.js, Express, MongoDB |
+| Secure authentication with JWT, OAuth, and role-based access control | React, Node.js, JWT, Bcrypt |
 
 ### 🤖 AI & LLM Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Chatbot with Memory** | AI chatbot with conversation memory and context awareness | Python, OpenAI, LangChain, Pinecone |
-| **Document Analyzer** | Extract insights from documents using NLP and machine learning | Python, Hugging Face, Transformers, FastAPI |
+| Description | Tech Stack |
+|-------------|------------|
+| AI chatbot with conversation memory and context awareness | Python, OpenAI, LangChain, Pinecone |
+| Extract insights from documents using NLP and machine learning | Python, Hugging Face, Transformers, FastAPI |
 
 ### 📚 RAG Applications
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Smart Search Engine** | Semantic search with vector embeddings and AI-powered responses | Pinecone, OpenAI, Streamlit, LangChain |
+| Description | Tech Stack |
+|-------------|------------|
+| Semantic search with vector embeddings and AI-powered responses | Pinecone, OpenAI, Streamlit, LangChain |
 
 ### ⚡ Automation Workflows
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Task Automator** | Automate repetitive tasks across applications and services | Python, Zapier, APIs, Slack |
-| **Email Processor** | Auto-process emails with AI categorization and responses | n8n, Node.js, Webhooks, Gmail |
+| Description | Tech Stack |
+|-------------|------------|
+| Automate repetitive tasks across applications and services | Python, Zapier, APIs, Slack |
+| Auto-process emails with AI categorization and responses | n8n, Node.js, Webhooks, Gmail |
 
 ---
 

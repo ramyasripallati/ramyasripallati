@@ -150,32 +150,30 @@ Automating repetitive workflows by connecting APIs, AI models and applications.
 
 ### 🚀 MERN Applications
 
-- **E-Commerce Platform** - Full-featured online store with cart, payments, and admin dashboard  
-  *Tech: React, Node.js, Express, MongoDB*
-
-- **Authentication System** - Secure authentication with JWT, OAuth, and role-based access control  
-  *Tech: React, Node.js, JWT, Bcrypt*
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **E-Commerce Platform** | Full-featured online store with cart, payments, and admin dashboard | React, Node.js, Express, MongoDB |
+| **Authentication System** | Secure authentication with JWT, OAuth, and role-based access control | React, Node.js, JWT, Bcrypt |
 
 ### 🤖 AI & LLM Projects
 
-- **Chatbot with Memory** - AI chatbot with conversation memory and context awareness  
-  *Tech: Python, OpenAI, LangChain, Pinecone*
-
-- **Document Analyzer** - Extract insights from documents using NLP and machine learning  
-  *Tech: Python, Hugging Face, Transformers, FastAPI*
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Chatbot with Memory** | AI chatbot with conversation memory and context awareness | Python, OpenAI, LangChain, Pinecone |
+| **Document Analyzer** | Extract insights from documents using NLP and machine learning | Python, Hugging Face, Transformers, FastAPI |
 
 ### 📚 RAG Applications
 
-- **Smart Search Engine** - Semantic search with vector embeddings and AI-powered responses  
-  *Tech: Pinecone, OpenAI, Streamlit, LangChain*
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Smart Search Engine** | Semantic search with vector embeddings and AI-powered responses | Pinecone, OpenAI, Streamlit, LangChain |
 
 ### ⚡ Automation Workflows
 
-- **Task Automator** - Automate repetitive tasks across applications and services  
-  *Tech: Python, Zapier, APIs, Slack*
-
-- **Email Processor** - Auto-process emails with AI categorization and responses  
-  *Tech: n8n, Node.js, Webhooks, Gmail*
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Task Automator** | Automate repetitive tasks across applications and services | Python, Zapier, APIs, Slack |
+| **Email Processor** | Auto-process emails with AI categorization and responses | n8n, Node.js, Webhooks, Gmail |
 
 ---
 

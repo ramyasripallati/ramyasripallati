@@ -148,17 +148,39 @@ Automating repetitive workflows by connecting APIs, AI models and applications.
 
 # 🧩 Featured Projects
 
-### 🚀 MERN Applications
-Full-stack applications built with **React, Node.js, Express and MongoDB**.
+<div align="center">
 
-### 🤖 AI & LLM Projects
-Experiments and applications involving **LLMs, prompts and intelligent systems**.
+## 🚀 MERN Applications
 
-### 📚 RAG Applications
-Building systems that combine **retrieval + AI models** to generate smarter responses.
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [Project Name](#) | Brief description of your MERN application | React, Node.js, Express, MongoDB | 🔗 |
+| [Project Name](#) | Brief description of your MERN application | React, Node.js, Express, MongoDB | 🔗 |
+| [Project Name](#) | Brief description of your MERN application | React, Node.js, Express, MongoDB | 🔗 |
 
-### ⚡ Automation Workflows
-Creating automated workflows by connecting **AI, APIs and web applications**.
+## 🤖 AI & LLM Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [Project Name](#) | Brief description of your AI project | Python, OpenAI, LangChain | 🔗 |
+| [Project Name](#) | Brief description of your AI project | Python, Hugging Face, Transformers | 🔗 |
+| [Project Name](#) | Brief description of your AI project | Python, RAG, Vector DB | 🔗 |
+
+## 📚 RAG Applications
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [Project Name](#) | Brief description of your RAG application | Pinecone, OpenAI, Streamlit | 🔗 |
+| [Project Name](#) | Brief description of your RAG application | ChromaDB, LlamaIndex, FastAPI | 🔗 |
+
+## ⚡ Automation Workflows
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [Project Name](#) | Brief description of your automation | Python, Zapier, APIs | 🔗 |
+| [Project Name](#) | Brief description of your automation | n8n, Node.js, Webhooks | 🔗 |
+
+</div>
 
 ---
 

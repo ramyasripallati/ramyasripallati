@@ -1,54 +1,90 @@
 # RAMYA SRI PALLATI
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramyasripallati.ramyasripallati&color=7C3AED" />
+
 **MERN Stack Developer | React Developer | AI Engineer & Automation Enthusiast**
 
 Exploring LLMs, RAG & Intelligent Systems
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 I'm a MERN Stack Developer and AI Engineer passionate about building modern web applications and exploring artificial intelligence. Currently focused on:
 
-- Building MERN & AI-powered applications
-- Exploring LLMs, RAG, AI workflows & automation
-- Creating smart, scalable, real-world products
-- Turning ideas into working applications
+- 🔭 Building MERN & AI-powered applications
+- 🌱 Exploring LLMs, RAG, AI workflows & automation
+- 💡 Creating smart, scalable, real-world products
+- ⚡ Turning ideas into working applications
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ramya-sri-pallati-8b98832a2/) | [Email](mailto:ramyapallati77@gmail.com)
+<a href="https://www.linkedin.com/in/ramya-sri-pallati-8b98832a2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## Tech Stack
-
-### Frontend
-React, HTML, CSS, JavaScript, Tailwind, Bootstrap
-
-### Backend & Database
-Node.js, Express, MongoDB, MySQL, PostgreSQL
-
-### AI & Automation
-Python, OpenAI, LangChain, RAG Systems, Prompt Engineering
+<a href="mailto:ramyapallati77@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-## What I Build
+## 💻 Tech Stack
 
-**Full Stack Apps** - React-based frontend applications with Node.js, Express and MongoDB
+### ⚛️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
 
-**AI Applications** - Applications powered by LLMs, intelligent workflows and RAG-based systems
+### 🛠️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-**Automation** - Automating repetitive workflows by connecting APIs, AI models and applications
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-22D3EE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-EC4899?style=flat-square"/>
+</p>
 
 ---
 
-## GitHub Stats
+## 🚀 What I Build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyasripallati&show_icons=true&theme=tokyonight&hide_border=true)
+**🌐 Full Stack Apps** - React-based frontend applications with Node.js, Express and MongoDB
+
+**🤖 AI Applications** - Applications powered by LLMs, intelligent workflows and RAG-based systems
+
+**⚡ Automation** - Automating repetitive workflows by connecting APIs, AI models and applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramyasripallati&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasripallati&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramyasripallati&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 *"Build things. Break things. Learn from both."*
 

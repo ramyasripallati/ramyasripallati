@@ -1,19 +1,3 @@
-<div align="center">
-  <h1 style="animation: fadeInDown 1s ease-out;">
-    <span style="background: linear-gradient(90deg, #7C3AED, #EC4899, #F59E0B); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
-      RAMYA SRI PALLATI
-    </span>
-  </h1>
-  
-  <p style="animation: fadeIn 1.5s ease-out;">
-    <strong>MERN Stack Developer | React Developer | AI Engineer & Automation Enthusiast</strong>
-  </p>
-  
-  <p style="animation: fadeIn 2s ease-out;">
-    Exploring LLMs, RAG & Intelligent Systems
-  </p>
-</div>
-
 <style>
 @keyframes gradient {
   0% { background-position: 0% 50%; }
@@ -31,6 +15,22 @@
   to { opacity: 1; transform: translateY(0); }
 }
 </style>
+
+<div align="center">
+  <h1 style="animation: fadeInDown 1s ease-out;">
+    <span style="background: linear-gradient(90deg, #7C3AED, #EC4899, #F59E0B); background-size: 200% 200%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 5s ease infinite;">
+      RAMYA SRI PALLATI
+    </span>
+  </h1>
+  
+  <p style="animation: fadeIn 1.5s ease-out;">
+    <strong>MERN Stack Developer | React Developer | AI Engineer & Automation Enthusiast</strong>
+  </p>
+  
+  <p style="animation: fadeIn 2s ease-out;">
+    Exploring LLMs, RAG & Intelligent Systems
+  </p>
+</div>
 
 ---
 

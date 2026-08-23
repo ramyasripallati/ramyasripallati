@@ -4,14 +4,14 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=140&section=header"/>
+<h1 align="center">YOUR NAME</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=999999&center=true&vCenter=true&width=900&color=7C3AED&lines=YOUR+NAME"/>
+  <strong>MERN Stack Developer</strong> • <strong>React Developer</strong> • <strong>AI Engineer & Automation Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=22D3EE&lines=MERN+Stack+Developer;React+Developer;AI+Engineer+%26+Automation+Enthusiast;Exploring+LLMs%2C+RAG+%26+Intelligent+Systems"/>
+  Exploring LLMs, RAG & Intelligent Systems
 </p>
 
 <h3 align="center">
@@ -194,7 +194,7 @@ Creating automated workflows by connecting **AI, APIs and web applications**.
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=22D3EE&lines=Building+MERN+Stack+Projects;Exploring+LLMs+%26+AI+Systems;Learning+RAG+Architectures;Automating+Workflows+with+AI"/>
+<strong>Building MERN Stack Projects</strong> • <strong>Exploring LLMs & AI Systems</strong> • <strong>Learning RAG Architectures</strong> • <strong>Automating Workflows with AI</strong>
 
 </p>
 
@@ -206,4 +206,3 @@ Creating automated workflows by connecting **AI, APIs and web applications**.
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=140&section=footer"/>

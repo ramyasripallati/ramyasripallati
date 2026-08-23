@@ -148,37 +148,118 @@ Automating repetitive workflows by connecting APIs, AI models and applications.
 
 # 🧩 Featured Projects
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-10+-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stars-⭐-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Forks-🍴-22D3EE?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🚀 MERN Applications
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name](#) | Brief description of your MERN application | React, Node.js, Express, MongoDB | 🔗 |
-| [Project Name](#) | Brief description of your MERN application | React, Node.js, Express, MongoDB | 🔗 |
-| [Project Name](#) | Brief description of your MERN application | React, Node.js, Express, MongoDB | 🔗 |
+<div align="center">
+
+### [🌟 E-Commerce Platform](#)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+Full-featured online store with cart, payments & admin dashboard 🛒
+
+</div>
+
+<div align="center">
+
+### [🔐 Authentication System](#)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-FF6B6B?style=flat-square"/>
+</p>
+Secure auth with JWT, OAuth & role-based access control �
+
+</div>
+
+---
 
 ## 🤖 AI & LLM Projects
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name](#) | Brief description of your AI project | Python, OpenAI, LangChain | 🔗 |
-| [Project Name](#) | Brief description of your AI project | Python, Hugging Face, Transformers | 🔗 |
-| [Project Name](#) | Brief description of your AI project | Python, RAG, Vector DB | 🔗 |
+<div align="center">
+
+### [🧠 Chatbot with Memory](#)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+</p>
+AI chatbot with conversation memory & context awareness �
+
+</div>
+
+<div align="center">
+
+### [📄 Document Analyzer](#)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+Extract insights from documents using NLP & ML 📊
+
+</div>
+
+---
 
 ## 📚 RAG Applications
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name](#) | Brief description of your RAG application | Pinecone, OpenAI, Streamlit | 🔗 |
-| [Project Name](#) | Brief description of your RAG application | ChromaDB, LlamaIndex, FastAPI | 🔗 |
+<div align="center">
+
+### [🔍 Smart Search Engine](#)
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square"/>
+</p>
+Semantic search with vector embeddings & AI responses �
+
+</div>
+
+---
 
 ## ⚡ Automation Workflows
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name](#) | Brief description of your automation | Python, Zapier, APIs | 🔗 |
-| [Project Name](#) | Brief description of your automation | n8n, Node.js, Webhooks | 🔗 |
+<div align="center">
+
+### [🔄 Task Automator](#)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-6DB33F?style=flat-square&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</p>
+Automate repetitive tasks across apps & services ⚙️
+
+</div>
+
+<div align="center">
+
+### [� Email Processor](#)
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
+Auto-process emails with AI categorization & responses �
+
+</div>
 
 </div>
 

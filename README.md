@@ -1,10 +1,10 @@
 # GitHub Profile README
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&color=7C3AED" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramyasripallati.ramyasripallati&color=7C3AED" />
 
 <br><br>
 
-<h1 align="center">YOUR NAME</h1>
+<h1 align="center">RAMYA SRI PALLATI</h1>
 
 <p align="center">
   <strong>MERN Stack Developer</strong> • <strong>React Developer</strong> • <strong>AI Engineer & Automation Enthusiast</strong>
@@ -30,7 +30,7 @@
 
 ```javascript
 const developer = {
-    name: "YOUR NAME",
+    name: "RAMYA SRI PALLATI",
     role: "MERN Stack Developer & AI Engineer",
 
     currentlyLearning: [
@@ -62,16 +62,12 @@ const developer = {
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/ramya-sri-pallati-8b98832a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ramyapallati77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -170,14 +166,14 @@ Creating automated workflows by connecting **AI, APIs and web applications**.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramyasripallati&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyasripallati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramyasripallati&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -185,7 +181,7 @@ Creating automated workflows by connecting **AI, APIs and web applications**.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyasripallati&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---

@@ -29,7 +29,7 @@ I'm a MERN Stack Developer and AI Engineer passionate about building modern web 
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/ramya-sri-pallati-8b98832a2/">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
